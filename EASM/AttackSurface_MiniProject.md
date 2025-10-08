@@ -30,11 +30,13 @@ Passive OSINT only. scanme.nmap.org is a legal, publicly authorized host for tes
 ## Evidence
 
 **Shodan Results**
-<img width="1497" height="754" alt="image" src="https://github.com/user-attachments/assets/14407284-1ac3-4f75-b0db-76d44f4b9bcb" />
+
+![Shodan Results](https://github.com/DeemaZaher/Digital-Risk-Intelligence-Projects/blob/main/assets/Shodan_Results.png)
 
 
 **Censys Results**
-<img width="1521" height="761" alt="image" src="https://github.com/user-attachments/assets/8863104a-3676-4546-aa89-fa2742f08358" />
+
+![Censys Results](https://github.com/DeemaZaher/Digital-Risk-Intelligence-Projects/blob/main/assets/Censys_Results.png)
 
 ---
 
