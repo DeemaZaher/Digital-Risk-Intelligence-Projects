@@ -38,7 +38,7 @@ The email 'examplebrand@example.com' returns no results, confirming the demo ema
 
 This reinforces strong credential hygiene and shows no current exposure in historical breach archives.
 
-![Dehashed Results](https://github.com/DeemaZaher/Digital-Risk-Intelligence-Projects/blob/main/DRPS/images/dehashed_result.png?raw=true)
+![Dehashed Results](https://github.com/DeemaZaher/Digital-Risk-Intelligence-Projects/blob/main/assets/dehashed_result.png?raw=true)
 
 ---
 
@@ -48,7 +48,7 @@ The email 'examplebrand@example.com' returned no matches across Leak-Lookup's br
 
 This reinforces earlier DeHashed findings, confirming no known exposure across public or aggregated datasets.
 
-![Leak-Lookup Results](https://github.com/DeemaZaher/Digital-Risk-Intelligence-Projects/blob/main/DRPS/images/leaklookup_result.png?raw=true)
+![Leak-Lookup Results](https://github.com/DeemaZaher/Digital-Risk-Intelligence-Projects/blob/main/assets/leaklookup_result.png?raw=true)
 
 ---
 
@@ -59,7 +59,7 @@ The SOCRadar Labs Dark Web Report for 'examplebrand.net' showed **no stealer log
 This confirms the brand’s clean posture and highlights how DRPS workflows provide enterprise-style visibility into dark web exposure.
 
 
-![SOCRadar Results](https://github.com/DeemaZaher/Digital-Risk-Intelligence-Projects/blob/main/DRPS/images/socradar_result.png)
+![SOCRadar Results](https://github.com/DeemaZaher/Digital-Risk-Intelligence-Projects/blob/main/assets/socradar_result.png)
 
 ---
 
@@ -71,10 +71,10 @@ Darkfeed.io visualizes ransomware ecosystem trends across active and inactive gr
 Healthcare and financial sectors remain **high-risk**, while **over 8,800 U.S. incidents** highlight geographic concentration.
 Inactive groups such as **El Dorado** and **Silent** show lifecycle turnover, reflecting takedowns or regrouping.
 
-![DarkFeed Results Ransomware Groups](https://github.com/DeemaZaher/Digital-Risk-Intelligence-Projects/blob/main/DRPS/images/darkfeed_ransomwaregroups.png)
+![DarkFeed Results Ransomware Groups](https://github.com/DeemaZaher/Digital-Risk-Intelligence-Projects/blob/main/assets/darkfeed_ransomwaregroups.png)
 
 
-![DarkFeed Results Ransomware Teams](https://github.com/DeemaZaher/Digital-Risk-Intelligence-Projects/blob/main/DRPS/images/darkfeed_ransomwareteamgroups.png)
+![DarkFeed Results Ransomware Teams](https://github.com/DeemaZaher/Digital-Risk-Intelligence-Projects/blob/main/assets/darkfeed_ransomwareteamgroups.png)
 
 
 ---
